@@ -1,7 +1,6 @@
 <h1>Aute ipsum laboris ut </h1>
 
 <h2>Commodo do magna elit amet incididunt cillum non.</h2>
-
 *In anim do duis ullamco.* Lorem ad mollit eu anim exercitation qui ea pariatur fugiat proident mollit. Consectetur dolore cupidatat aliquip aliqua elit exercitation cillum duis tempor.
 
 <h2>Excepteur amet aliqua quis exercitation aliquip laboris.</h2>
@@ -28,3 +27,4 @@ alt="" width="800" height="600" border="10" /></a>
 Eu est dolore duis enim consequat incididunt excepteur consectetur proident officia sit velit irure. Irure qui sunt enim aute cillum dolore. Elit amet nulla cupidatat nostrud excepteur duis dolore sit quis nisi. Do non eu est laboris quis duis laboris adipisicing dolore nulla nostrud et.
 
 <h3>Veniam ullamco esse dolore duis ea.</h3>
+
