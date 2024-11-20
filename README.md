@@ -29,3 +29,6 @@ Eu est dolore duis enim consequat incididunt excepteur consectetur proident offi
 
 <h3>Veniam ullamco esse dolore duis ea.</h3>
 
+```python
+for i in range(10): print(i)
+```
