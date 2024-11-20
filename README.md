@@ -9,7 +9,7 @@
 **Proident quis velit sint** fugiat eiusmod eiusmod esse. Cupidatat velit nulla ipsum est tempor et sunt nisi incididunt elit ea officia aliquip ad.
 
 
-
+[Tækniskólinn](https://tskoli.is/)
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://tskoli.is/wp-content/uploads/2017/07/Tækniskólinn.Háteigsvegi-1-768x463.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://tskoli.is/wp-content/uploads/2017/07/Tækniskólinn.Háteigsvegi-1-768x463.jpg">
