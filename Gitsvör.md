@@ -38,3 +38,8 @@ bara nokkrum sinnum, ég persónulega geri það ekki voða mikið enn maður æ
 
 
 <h1>7.</h1>
+working directory: er þar sem maður vinnur, maður getur ekki savað það sem er í því nema að setja það á staging areaið og commita þar.
+
+
+
+staging area: maður nær ekki að vinna á skjalinu þegar maður er í þessu, nema með að nota git add. maður nær að nota commit hérna 
