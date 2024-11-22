@@ -25,6 +25,9 @@ git branch: notað til að útbúa fyrir sérstaka vinnu eða skoða hvaða úti
 git checkout: lætur þig fara á eitthvað commit eða útibú sem git log og git branch fundu.
 
 <h1>4.</h1> 
-version control: geyma mismunandi útgáfur af skjölum og kóða í sögu. 
+version control: geyma mismunandi útgáfur af skjölum og kóða í sögu. hver gerði hvaða breytingu, sýnir maður hver gerði það og hvenær.
+
+<h1>6.</h1>
+bara nokkrum sinnum, ég persónulega geri það ekki voða mikið enn maður ætti að gera það amsk eftir hverja spurningu eða eftir svona 5 mínútur að kóða 
 
 
