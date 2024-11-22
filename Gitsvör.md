@@ -13,3 +13,10 @@ git clone: klónar það sem var í núverandi möppu og klónar það á aðra 
 git status: sýnir þér hvað er að gerast í directoríinu og segir þér hvort það er eitthvað rangt.
 
 git diff: sýnir breytingar í directoríinu.
+
+<h1>3.</h1> 
+git log: sýnir þér sögu breytingarnar, svo maður nær að sjá hvaða commits maður langar að breyta eða skoða
+
+git branch: notað til að útbúa fyrir sérstaka vinnu eða skoða hvaða útibú er tilbúið.
+
+git checkout: lætur þig fara á eitthvað commit eða útibú sem git log og git branch fundu.
