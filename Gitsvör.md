@@ -29,7 +29,7 @@ version control: geyma mismunandi útgáfur af skjölum og kóða í sögu. hver
 
 
 <h1>5.</h1> 
-fólk geta auðveldlega séð hvað maður er að sýna bara með að senda link á github. það er alveg óhætt. Það er voða auðvelt að nota. 
+fólk geta auðveldlega séð hvað maður er að sýna bara með að senda link á github. það er alveg óhætt. Það er voða auðvelt að nota. Það er auðvelt að vinna með öðru fólki inn á Github. Það er frítt að nota svo það er frábært.
 
 
 
@@ -37,3 +37,4 @@ fólk geta auðveldlega séð hvað maður er að sýna bara með að senda link
 bara nokkrum sinnum, ég persónulega geri það ekki voða mikið enn maður ætti að gera það amsk eftir hverja spurningu eða eftir svona 5 mínútur að kóða 
 
 
+<h1>7.</h1>
