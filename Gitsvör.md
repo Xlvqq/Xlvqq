@@ -20,3 +20,6 @@ git log: sýnir þér sögu breytingarnar, svo maður nær að sjá hvaða commi
 git branch: notað til að útbúa fyrir sérstaka vinnu eða skoða hvaða útibú er tilbúið.
 
 git checkout: lætur þig fara á eitthvað commit eða útibú sem git log og git branch fundu.
+
+<h1>4.</h1> 
+version control: geyma mismunandi útgáfur af skjölum og kóða í sögu. 
